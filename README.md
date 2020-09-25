@@ -11,14 +11,19 @@ I found an instructional video to build Tetris.  I did not start from scratch.  
 
 To run the game for pleasure or interest, open an environment such Jupyter Notebook and run the contents of ***Tetris single cell.ipynb***, the only imports used are numpy, pygame, and datetime.
 
+## Tetris history:
+Tetris was created by Alexey Pajitnov in 1984.  A five-cube game, Pentamino, was the basis for the game.  Two modifications can before the success of te faniliar result.  The number of pieces in each shape was reduced from five to four.  Next, the pieces were made to descend into a rectrangular glass.  Tetris was born.  The name of the game "Tetris" Pajitnov combined from 2 words: the name of the original game—"tetramino" and his favorite sport—"tennis".  
 
+## Warning
+If you are going to code a game for Machine Learning, make the game a CLASS. Otherwise, you create the game as main line code and have tpchange it into a class.  
 
-Acknowledgement:
+## Reinforcement Learning:
+I struggled to synch TensorFlow to my game.  I gave up and went to Pytorch.  I willtry TensorFlow agsin (later).   
+
+Acknowledgements:
 The implementation of Tetris was based  on a YouTube video  
-Python and Pygame Tutorial - Build Tetris! Full GameDev Course  
-https://www.youtube.com/watch?v=zfvxp7PgQ6c  
+[Python and Pygame Tutorial - Build Tetris! Full GameDev Course](https://www.youtube.com/watch?v=zfvxp7PgQ6c)  
 
-The code in this project is a modified version of the code in the video.  The most obvious difference is that this version has a random rotation of the 4-block pattern.  
+Tetris history is from (Source: https://history-computer.com/ModernComputer/Software/Tetris.html)  
 
-Tetris was created by Alexey Pajitnov in 1984.  A five-cube game, Pentamino, was the basis for the game.  Two modifications can before the success of te faniliar result.  The number of pieces in each shape was reduced from five to four.  Next, the pieces were made to descend into a rectrangular glass.  Tetris was born.  The name of the game "Tetris" Pajitnov combined from 2 words: the name of the original game—"tetramino" and his favorite sport—"tennis".  (Source: https://history-computer.com/ModernComputer/Software/Tetris.html)  
-
+[Deep Q Learning is Simple with PyTorch | Full Tutorial 2020](https://www.youtube.com/watch?v=wc-FxNENg9U)  
