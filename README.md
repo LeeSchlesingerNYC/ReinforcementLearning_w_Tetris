@@ -15,7 +15,7 @@ To run the game for pleasure or interest, open an environment such Jupyter Noteb
 Tetris was created by Alexey Pajitnov in 1984.  A five-cube game, Pentamino, was the basis for the game.  Two modifications can before the success of te faniliar result.  The number of pieces in each shape was reduced from five to four.  Next, the pieces were made to descend into a rectrangular glass.  Tetris was born.  The name of the game "Tetris" Pajitnov combined from 2 words: the name of the original game—"tetramino" and his favorite sport—"tennis".  
 
 ## Warning
-If you are going to code a game for Machine Learning, make the game a CLASS. Otherwise, you create the game as main line code and have tpchange it into a class.  
+If you are going to code a game for Machine Learning, make the game a ***Class***. Otherwise, you create the game as main line code and have to change it into a class.  
 
 ## Reinforcement Learning:
 I struggled to synch TensorFlow to my game.  I gave up and went to Pytorch.  I willtry TensorFlow agsin (later).   
