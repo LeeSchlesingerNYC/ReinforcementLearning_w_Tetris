@@ -2,7 +2,7 @@
 Using Tetris as a basis to implement reinforcement learning algorithm.  
 
 This project begins with devling into Machine Learning.  More specifically, Reinforcement Learning.  Rather than add lengthy definitions, Here are links to explore these topics:  
-[Machine Learning](https://expertsystem.com/machine-learning-definition/)
+[Machine Learning](https://expertsystem.com/machine-learning-definition/)  
 [Reinforecement Learning](https://www.geeksforgeeks.org/what-is-reinforcement-learning/)
 
 
