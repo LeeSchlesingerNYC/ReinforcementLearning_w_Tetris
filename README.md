@@ -20,7 +20,7 @@ If you are going to code a game for Machine Learning, make the game a CLASS. Oth
 ## Reinforcement Learning:
 I struggled to synch TensorFlow to my game.  I gave up and went to Pytorch.  I willtry TensorFlow agsin (later).   
 
-Acknowledgements:
+## Acknowledgements:  
 The implementation of Tetris was based  on a YouTube video  
 [Python and Pygame Tutorial - Build Tetris! Full GameDev Course](https://www.youtube.com/watch?v=zfvxp7PgQ6c)  
 
